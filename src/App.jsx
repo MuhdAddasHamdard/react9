@@ -6,11 +6,12 @@ import "./App.css";
 import Greetings from "./components/Greetings";
 import Condition from "./components/Condition";
 import State from "./components/State";
+import Counter from "./components/Counter";
 
 function App() {
   return (
     <>
-      <State />
+      <Counter />
     </>
   );
 }
